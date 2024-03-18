@@ -2,9 +2,9 @@
 <Project>
 
 	<PropertyGroup>
-		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
-		<ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+		<AppendTargetFrameworkToOutputPath>True</AppendTargetFrameworkToOutputPath>
+		<AppendRuntimeIdentifierToOutputPath>True</AppendRuntimeIdentifierToOutputPath>
+		<ProduceReferenceAssembly>True</ProduceReferenceAssembly>
 		<ImplicitUsings>disabled</ImplicitUsings>
 		<Nullable>disable</Nullable>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>

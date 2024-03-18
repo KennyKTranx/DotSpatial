@@ -111,7 +111,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotSpatial.Tools.Tests", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotSpatial.NTSExtension.Tests", "Tests\DotSpatial.NTSExtension.Tests\DotSpatial.NTSExtension.Tests.csproj", "{BFFFC663-A87C-4B4A-9A94-0392DA6418CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotSpatial.Plugins.CoordinateConverter", "Plugins\DotSpatial.Plugins.CoordinateConverter\DotSpatial.Plugins.CoordinateConverter.csproj", "{C609339A-6A2D-440B-83DF-C27B049B0E23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotSpatial.Plugins.CoordinateConverter", "Plugins\DotSpatial.Plugins.CoordinateConverter\DotSpatial.Plugins.CoordinateConverter.csproj", "{C609339A-6A2D-440B-83DF-C27B049B0E23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
